@@ -1,0 +1,32 @@
+body{
+background-color: chartreuse;
+text-align: center;  
+    font-family: sans-serif;
+}
+img{
+width:189px;
+height:189px;    
+}
+#marqueeStyle{
+background-color:dodgerblue;
+}
+#myNavbar{
+ position: fixed;
+top:0;
+z-index: 9999;    
+height:6px;
+color: white;
+background-color:black;   
+}
+#welcome{
+background-color: aqua;    
+}
+#videos{
+background-color: aquamarine;    
+}
+#work{
+background-color: cornsilk ;   
+}
+#writings{
+background-color: cyan;    
+}
